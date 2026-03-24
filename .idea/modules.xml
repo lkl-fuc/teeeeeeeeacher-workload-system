@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend/teacher-workload-backend/teacher-workload-backend.iml" filepath="$PROJECT_DIR$/backend/teacher-workload-backend/teacher-workload-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/新teacher-workload-system.iml" filepath="$PROJECT_DIR$/.idea/新teacher-workload-system.iml" />
     </modules>
   </component>
